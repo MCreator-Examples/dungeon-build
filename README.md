@@ -1,3 +1,4 @@
+![Dungeon Build](https://i.imgur.com/fT8UxqE.png)
 # GRAPPLING HOOK
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
@@ -32,6 +33,3 @@ Procedures have been built by NorthWestTrees Gaming.
 * [YouTube: Dungeon Build Part 2](https://youtu.be/wvubeoLq_MM) - Published on 2021-08-10
 * [YouTube: Dungeon Build Part 3](https://youtu.be/lToEcDvL7fQ) - Published on 2021-08-17
 * [YouTube: Dungeon Build Part 4](https://youtu.be/QIag5UHFNeM) - Published on 2021-08-24
-
-## GALLERY
-![Dungeon Build](https://i.imgur.com/fT8UxqE.png)
